@@ -1,0 +1,9 @@
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/obj/Debug/netstandard2.0/cifradoAesCbcEncript.csprojAssemblyReference.cache
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/obj/Debug/netstandard2.0/cifradoAesCbcEncript.csproj.CoreCompileInputs.cache
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/obj/Debug/netstandard2.0/cifradoAesCbcEncript.AssemblyInfoInputs.cache
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/obj/Debug/netstandard2.0/cifradoAesCbcEncript.AssemblyInfo.cs
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/bin/Debug/netstandard2.0/cifradoAesCbcEncript.deps.json
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/bin/Debug/netstandard2.0/cifradoAesCbcEncript.dll
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/bin/Debug/netstandard2.0/cifradoAesCbcEncript.pdb
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/obj/Debug/netstandard2.0/cifradoAesCbcEncript.dll
+/Users/desarrolladorios1/Desktop/dev/cSharp/cifradoAesCbcEncript/obj/Debug/netstandard2.0/cifradoAesCbcEncript.pdb
